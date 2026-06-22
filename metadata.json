@@ -1,0 +1,6 @@
+{
+  "name": "Data Center Rating Calculator",
+  "description": "An interactive calculator to pre-qualify and rate candidate data center sites across continuous thermodynamic, infrastructure, and risk parameters, with exportable Python model integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
